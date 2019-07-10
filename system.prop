@@ -20,7 +20,7 @@ persist.debug.coresight.config=stm-events
 persist.vendor.dpm.feature=9
 
 # fod
-persist.vendor.sys.fp.fod.location.X_Y=605,2600
+persist.vendor.sys.fp.fod.location.X_Y=605,2613
 persist.vendor.sys.fp.fod.size.width_height=230,230
 
 # GPS
