@@ -207,6 +207,10 @@ PRODUCT_PACKAGES += \
     vendor.oem_ftm.rc \
     vendor.oem_ftm_svc_disable.rc
 
+# Device Settings
+PRODUCT_PACKAGES += \
+    DeviceSettings
+
 # Display
 PRODUCT_PACKAGES += \
     android.hardware.graphics.composer@2.2-service \
@@ -409,7 +413,6 @@ PRODUCT_PACKAGES += \
 
 # tri-state key
 PRODUCT_PACKAGES += \
-    KeyHandler \
     tri-state-key_daemon
 
 # Trust HAL
